@@ -7,4 +7,4 @@
     data-bs-parent →  item open 
     
 # Output
-:///C:/Users/saha/Documents/index.html
+http://127.0.0.1:5500/index.html
